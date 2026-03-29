@@ -2,7 +2,7 @@
 
 Senior information security engineer, CIRT responder, and the person behind **Penumbra Forge** — an independent studio building privacy-first security tools and open source software.
 
-Everything I build runs locally, collects nothing, and ships with zero cloud dependencies.
+Everything I build runs locally, collects nothing and respects your privacy.
 
 ---
 
