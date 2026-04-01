@@ -1,12 +1,13 @@
 ### Hey, I'm Shadoe
 
-Senior information security engineer, CIRT responder, and the person behind **Penumbra Forge** — an independent studio building privacy-first security tools and open source software.
+Senior information security engineer on a CIRT by day, insomniac developer by night and the person behind 
+**Penumbra Forge** — an independent studio building privacy-first security tools and open source software.
 
 Everything I build runs locally, collects nothing and respects your privacy.
 
 ---
 
-#### From the Forge
+#### From Penumbra Forge
 
 **[Gate](https://github.com/penumbraforge/gate)** — The first secret scanner that fixes what it finds. 148 detection rules, credential verification, auto-remediation across 9 languages, incident response workflows, and compliance reports. Free, open source, runs 100% on your machine.
 
